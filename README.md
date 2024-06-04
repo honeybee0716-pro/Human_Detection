@@ -54,7 +54,7 @@
 
 ## Guide
 - Clone this repository.
-    - `git clone https://github.com/HellBoy-OP/HumanDetection`
+    - `git clone https://github.com/honeybee0716-pro/Human_Detection.git`
 - Install requirements using:
     - `pip install -r requirements.txt`
 - Run the main file:
@@ -86,10 +86,10 @@
 </p>
 
 <h4 align="center">
-    Copyright (C) 2022 <a href="https://github.com/HellBoy-OP">HellBoy</a>
+    Copyright (C) 2022 <a href="https://github.com/honeybee0716-pro">Honeybee</a>
 </h4>
 
-[Human Detection](https://github.com/HellBoy-OP/HumanDetection) is free software: you can redistribute it and/or modify
+[Human Detection](https://github.com/honeybee0716-pro/Human_Detection) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -106,8 +106,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 <br />
 
-## Credits
-- 💖 [HellBoy](https://github.com/HellBoy-OP) and [Team](https://github.com/The-HellBot)
+
 
 <br />
 
